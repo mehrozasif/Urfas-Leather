@@ -1,0 +1,1 @@
+a:6:{s:10:"home.html";a:2:{i:0;s:16:"img/favicon2.ico";i:1;s:15:"img/favicon.ico";}s:12:"about.html";a:1:{i:0;s:15:"img/favicon.ico";}s:12:"product.html";a:1:{i:0;s:15:"img/favicon.ico";}s:18:"bag.html";a:1:{i:0;s:15:"img/favicon.ico";}s:21:"carpet.html";a:1:{i:0;s:15:"img/favicon.ico";}s:21:"carpet.html";a:1:{i:0;s:15:"img/favicon.ico";}}
